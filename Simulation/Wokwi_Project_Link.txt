@@ -1,0 +1,11 @@
+Smart Accident Detection & Emergency Alert System
+
+Wokwi Simulation:
+https://wokwi.com/projects/476885206212803585
+
+This simulation demonstrates:
+1. Accident detection using MPU6050.
+2. Warning indication using LED and buzzer.
+3. 10-second alert cancellation using a push button.
+4. GPS location parsing.
+5. Simulated GSM emergency alert through the Serial Monitor.
